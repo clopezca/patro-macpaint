@@ -1,0 +1,232 @@
+{
+  "title": {
+    "text": {
+      "headline": "El patró que va sobreviure",
+      "text": "<p><em>MacPaint, Susan Kare i el llenguatge visual de la informàtica per a tothom</em></p><p>Tretze fites, des dels primers sistemes de pintura digital fins al reconeixement institucional del disseny de Kare.</p>"
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": "1973"
+      },
+      "group": "Maquinari",
+      "text": {
+        "headline": "SuperPaint",
+        "text": "<p>Richard Shoup construeix a Xerox PARC el primer sistema de pintura compatible amb vídeo, construït al voltant d'una memòria d'imatge (<em>frame buffer</em>) que permetia emmagatzemar i modificar una imatge feta de píxels.</p><p class=\"font\">Font: Computer History Museum (2000).</p>"
+      },
+      "media": {
+        "url": "img/01-superpaint.png",
+        "caption": "Menú d'eines de SuperPaint: selector de color HSB, eines com el text, la càmera o el pinzell, paleta de colors i gruixos de traç.",
+        "credit": "© Computer History Museum · Font: CHM, <em>Richard Shoup & SuperPaint</em> (2018)",
+        "thumbnail": "img/icona-maquinari.png"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1979",
+        "month": "12"
+      },
+      "group": "Maquinari",
+      "text": {
+        "headline": "Xerox Alto i la visita d'Apple a PARC",
+        "text": "<p>L'Alto tenia ratolí, pantalla de mapa de bits i un entorn gràfic. La visita de Steve Jobs i el seu equip va reforçar una feina que Apple ja havia començat amb Lisa i Macintosh; Bill Atkinson en recorda sobretot la inspiració.</p><p class=\"font\">Fonts: Computer History Museum; Carlson (2017).</p>"
+      },
+      "media": {
+        "url": "img/02-xerox-alto.jpg",
+        "caption": "Xerox Alto (1973), exposat al Computer History Museum de Mountain View.",
+        "credit": "Foto: The wub · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Xerox_Alto_I,_1973,_Computer_History_Museum.jpg\" target=\"_blank\">Wikimedia Commons</a>",
+        "thumbnail": "img/icona-maquinari.png"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1982"
+      },
+      "group": "Empreses i persones",
+      "text": {
+        "headline": "Susan Kare entra a Apple",
+        "text": "<p>Convidada per Andy Hertzfeld, Kare, que venia del món de l'art, es converteix en l'única responsable dels gràfics de pantalla del grup Macintosh. Comença dibuixant les icones en paper quadriculat.</p><p class=\"font\">Fonts: Computer History Museum; Museum of Modern Art; Kare (2026).</p>"
+      },
+      "media": {
+        "url": "img/03-susan-kare.jpg",
+        "caption": "Susan Kare durant una demostració del Macintosh (1984).",
+        "credit": "Foto: Interface Studies · <a href=\"https://creativecommons.org/licenses/by/3.0\" target=\"_blank\">CC BY 3.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Susan_Kare_Mac_Demo_1984_02.jpg\" target=\"_blank\">Wikimedia Commons</a>",
+        "thumbnail": "img/icona-persones.png"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1983"
+      },
+      "group": "Maquinari",
+      "text": {
+        "headline": "Apple Lisa",
+        "text": "<p>Per a la Lisa, Atkinson crea LisaGraf (després QuickDraw) i el programa de dibuix LisaSketch, que passarà a dir-se MacSketch i, la primavera de 1983, MacPaint. L'enllesteix l'octubre d'aquell any.</p><p class=\"font\">Fonts: Shustek (2010); Myslewski (2010).</p>"
+      },
+      "media": {
+        "url": "img/04-apple-lisa.jpg",
+        "caption": "Una Lisa original (Lisa 1) amb l'escriptori del sistema operatiu Lisa OS a la pantalla.",
+        "credit": "Foto: Timothy Colegrove · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Apple_Lisa_Computer.jpg\" target=\"_blank\">Wikimedia Commons</a>",
+        "thumbnail": "img/icona-maquinari.png"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1984",
+        "month": "1"
+      },
+      "display_date": "Gener de 1984",
+      "group": "Maquinari",
+      "text": {
+        "headline": "Macintosh",
+        "text": "<p>Apple posa a la venda el Macintosh original per 2.495 dòlars, amb ratolí, pantalla en blanc i negre i dos programes inclosos: MacWrite i MacPaint.</p><p class=\"font\">Fonts: Manovich (2013); Shustek (2010).</p>"
+      },
+      "media": {
+        "url": "img/05-macintosh.jpg",
+        "caption": "Steve Jobs amb el Macintosh, gener de 1984. A la pantalla, MacPaint.",
+        "credit": "Foto: Bernard Gotfryd (editada per Cart) · Domini públic · <a href=\"https://commons.wikimedia.org/wiki/File:Steve_Jobs_and_Macintosh_computer,_January_1984,_by_Bernard_Gotfryd_-_edited.jpg\" target=\"_blank\">Wikimedia Commons</a>",
+        "thumbnail": "img/icona-maquinari.png"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1984"
+      },
+      "group": "Programari",
+      "text": {
+        "headline": "MacPaint i FatBits",
+        "text": "<p>Llapis, pinzell, pot de pintura, llaç i trames. Amb FatBits, cada píxel es veu com un quadrat que es pot activar o desactivar: la \"matriz de pixeles\" de la imatge digital es fa visible per a qualsevol usuari.</p><p class=\"font\">Fonts: Kare (2026); Manovich (2001/2005).</p>"
+      },
+      "media": {
+        "url": "img/06-macpaint.png",
+        "caption": "Una flor dibuixada a mà alçada amb MacPaint i ampliada amb FatBits, que mostra la quadrícula de píxels. A l'esquerra, la paleta d'eines; a sota, les trames.",
+        "credit": "Captura i dibuix propis · <a href=\"https://infinitemac.org\" target=\"_blank\">Infinite Mac</a> · Programari © Apple",
+        "thumbnail": "img/icona-programari.png"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1984"
+      },
+      "group": "Programari",
+      "text": {
+        "headline": "Les icones i les fonts de Kare",
+        "text": "<p>Icones de 32 × 32 píxels pensades com un sistema: l'aplicació és un verb i el document, un substantiu. La font del sistema, Chicago, fa servir caràcters d'amplada proporcional.</p><p class=\"font\">Font: Kare (2026).</p>"
+      },
+      "media": {
+        "url": "img/07-icones.png",
+        "caption": "L'escriptori del Macintosh amb la barra de menús en Chicago. La icona de MacPaint (una mà que pinta amb un pinzell) fa de verb; la del document de la flor, de substantiu. També s'hi veuen el disc del sistema, el document \"Welcome\" i la paperera.",
+        "credit": "Captura pròpia · <a href=\"https://infinitemac.org\" target=\"_blank\">Infinite Mac</a> · Programari i icones © Apple",
+        "thumbnail": "img/icona-programari.png"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1985",
+        "month": "11"
+      },
+      "group": "Empreses i persones",
+      "text": {
+        "headline": "Paint arriba a Windows",
+        "text": "<p>Microsoft inclou a Windows 1.0 una versió amb llicència de PC Paintbrush, de ZSoft, anomenada simplement Paint, que treballa en blanc i negre.</p><p class=\"font\">Font: <em>RIP: Microsoft Paint</em> (2017).</p>"
+      },
+      "media": {
+        "url": "img/08-paint-windows.png",
+        "caption": "La mateixa flor, ara dibuixada amb el Paint de Windows 1.01, també en blanc i negre i amb la paleta d'eines a la part superior del llenç.",
+        "credit": "Captura i dibuix propis · <a href=\"https://www.pcjs.org\" target=\"_blank\">PCjs</a> · Programari © Microsoft",
+        "thumbnail": "img/icona-persones.png"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1987"
+      },
+      "end_date": {
+        "year": "1998"
+      },
+      "group": "Empreses i persones",
+      "text": {
+        "headline": "Claris i el declivi de MacPaint",
+        "text": "<p>Apple crea la filial Claris, que es fa càrrec del programa. MacPaint 2.0 (1988) permet obrir fins a nou documents, però és la darrera versió. El 1998 se n'atura la comercialització.</p><p class=\"font\">Fonts: Shustek (2010); Knight (2014).</p>"
+      },
+      "media": {
+        "url": "img/09-macpaint-2.png",
+        "caption": "MacPaint 2.0, publicat per Claris, amb diversos documents oberts alhora, una de les novetats d'aquesta versió.",
+        "credit": "Captura pròpia · <a href=\"https://infinitemac.org\" target=\"_blank\">Infinite Mac</a> · Programari © Claris / Apple",
+        "thumbnail": "img/icona-persones.png"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1990",
+        "month": "2",
+        "day": "19"
+      },
+      "group": "Programari",
+      "text": {
+        "headline": "Photoshop 1.0",
+        "text": "<p>Nascut de Display, un programa de Thomas Knoll per veure imatges en escala de grisos en un Macintosh Plus monocrom, Photoshop fa el salt a la fotografia i al color.</p><p class=\"font\">Font: Combrinck (2025).</p>"
+      },
+      "media": {
+        "url": "img/10-photoshop.jpg",
+        "caption": "Pantalla principal de Photoshop 1.0 amb la paleta d'eines.",
+        "credit": "Captura: creativebits · via <a href=\"https://computerhistory.org/blog/adobe-photoshop-source-code/\" target=\"_blank\">Computer History Museum</a>, Shustek (2013), <em>Adobe Photoshop Source Code</em>",
+        "thumbnail": "img/icona-programari.png"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1990"
+      },
+      "group": "Empreses i persones",
+      "text": {
+        "headline": "Kare i el Solitari de Windows 3.0",
+        "text": "<p>Kare dissenya icones per a Windows 3.0 i les cartes del <em>Solitari</em>, amb el programa de pintura del mateix Windows i la paleta de 16 colors VGA. Les cartes es mantenen al sistema fins al 2007.</p><p class=\"font\">Font: Edwards (2016).</p>"
+      },
+      "media": {
+        "url": "img/11-solitari.png",
+        "caption": "Una partida del <em>Solitari</em> de Windows 3.0, amb les cartes dissenyades per Susan Kare.",
+        "credit": "Captura pròpia · <a href=\"https://www.pcjs.org\" target=\"_blank\">PCjs</a> · Programari © Microsoft; cartes de Susan Kare",
+        "thumbnail": "img/icona-persones.png"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2010"
+      },
+      "end_date": {
+        "year": "2018"
+      },
+      "group": "Empreses i persones",
+      "text": {
+        "headline": "MacPaint entra al museu",
+        "text": "<p>2010: el Computer History Museum publica el codi font de MacPaint i QuickDraw. 2015: el MoMA incorpora els esbossos d'icones de Kare. 2018: Kare rep la medalla de l'AIGA.</p><p class=\"font\">Fonts: Shustek (2010); Meier (2015); Crockett (2018).</p>"
+      },
+      "media": {
+        "url": "img/12-chm.jpg",
+        "caption": "Edifici del Computer History Museum a Mountain View (Califòrnia) el 2024. Aquesta institució va publicar el codi font de MacPaint el 2010.",
+        "credit": "Foto: Antony-22 · <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\">CC BY-SA 4.0</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Computer_History_Museum_2024b.jpg\" target=\"_blank\">Wikimedia Commons</a>",
+        "thumbnail": "img/icona-persones.png"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2017",
+        "month": "7",
+        "day": "24"
+      },
+      "group": "Programari",
+      "text": {
+        "headline": "\"Paint ha vingut per quedar-se\"",
+        "text": "<p>Microsoft anuncia que inclou Paint en la llista de funcions obsoletes de Windows 10. Aquella mateixa nit, davant d'\"una increïble mostra de suport i nostàlgia\", rectifica.</p><p class=\"font\">Font: Uszerowicz (2017).</p>"
+      },
+      "media": {
+        "url": "img/13-jspaint.png",
+        "caption": "La mateixa flor, dibuixada amb JS Paint, una recreació de codi obert del Paint clàssic de Windows que funciona al navegador.",
+        "credit": "Captura i dibuix propis · <a href=\"https://jspaint.app\" target=\"_blank\">JS Paint</a>, d'Isaiah Odhner · <a href=\"https://github.com/1j01/jspaint/blob/master/LICENSE.txt\" target=\"_blank\">Llicència MIT</a>",
+        "thumbnail": "img/icona-programari.png"
+      }
+    }
+  ]
+}
